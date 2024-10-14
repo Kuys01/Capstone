@@ -30,7 +30,7 @@ export default function ViewBinPage() {
 
     return (
         <div className="max-h-11 bg-cover bg-no-repeat bg-center">
-            {/* Bin Management Section */}
+            Bin Management Section
             <div className="container max-h-11 p-6 bg-white rounded-lg shadow-lg">
                 <h1 className="text-3xl font-bold text-gray-800 mb-6">View Bins</h1>
 
